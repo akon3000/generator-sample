@@ -1,0 +1,21 @@
+{
+  "name": "generator-question",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "",
+  "license": "ISC",
+  "files": [
+    "app"
+  ],
+  "dependencies": {
+    "fs-extra": "^1.0.0",
+    "yeoman-generator": "^0.24.1"
+  }
+}
