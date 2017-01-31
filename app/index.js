@@ -9,7 +9,7 @@
         this.prompt({
             type: "input",
             name: "directive",
-            message: "Enter your question name",
+            message: "Enter your sample-project name",
             default: this.appname
         }).then(function(answers){
             this.directiveName = answers.directive;
