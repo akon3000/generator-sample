@@ -1,15 +1,20 @@
 # generator-sample
 
-the generator is sample for help you make a generate-project. it should be [yeoman](http://yeoman.io/) for building project
+the generator is sample for help you make a Generate Project. it should be have [yeoman](http://yeoman.io/) for building project.
 
 # Quick start
 
-```bash
+- make sure have Yeoman in your computer. if doesn't have you can install Yeoman by : ``` npm install -g yo ```
+
+- then Download the project.
+
+```
 Clone the repo : git clone https://github.com/akon3000/generator-sample
 # or...
 Install with bower : bower install  https://github.com/akon3000/generator-sample
 ```
 
-Then install package with npm : npm install
+- and then install package with npm : npm install
 
 # Usage
+
